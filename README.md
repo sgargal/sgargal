@@ -8,7 +8,7 @@
 - 🗄️ Bases de Datos: MySQL, MariaDB
 - 🛠️ Herramientas: Git, phpMyAdmin, XAMPP, Linux
 ### 📊 Estadísticas de GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sgargal&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sgargal&&bg_color=ffc0cb&title_color=800080&text_color=4b0082)
 ### ✅ Lenguajes más usados
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgargal&layout=compact&langs_count=6&theme=dark)
 ### Última actividad: 
