@@ -10,5 +10,5 @@
 ### Lenguajes más usados
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgargal&layout=compact&langs_count=6&theme=merko)
 ### Última actividad: 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sgargal&theme=tokyo-night)
 
