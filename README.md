@@ -8,4 +8,4 @@
 ### 📊 Estadísticas de GitHub:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sgargal&show_icons=true&theme=dark)
 ### Lenguajes más usados
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgargal&layout=compact&langs_count=6&theme=onedark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgargal&layout=compact&langs_count=6&theme=merko)
