@@ -1,4 +1,6 @@
-### 👋 ¡Hola, soy Sara!
+
+# 👋 ¡Hola, soy Sara!
+🌍 **Granada, España**
 💻 **Desarrolladora de Aplicaciones Web**
 ### 🛠️ Tecnologías y Herramientas:
 - 💻 Lenguajes: JavaScript, PHP, HTML, CSS, SASS, Java
