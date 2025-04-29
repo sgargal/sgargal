@@ -4,7 +4,7 @@
 💻 **Desarrolladora de Aplicaciones Web**
 ### 🛠️ Tecnologías y Herramientas:
 - 💻 Lenguajes: JavaScript, PHP, HTML, CSS, SASS, Java
-- ⚙️ Frameworks: Node.js, Laravel
+- ⚙️ Frameworks: Node.js, Vue.js
 - 🗄️ Bases de Datos: MySQL, MariaDB
 - 🛠️ Herramientas: Git, phpMyAdmin, XAMPP, Linux
 ### 📊 Estadísticas de GitHub:
